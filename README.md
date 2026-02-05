@@ -74,8 +74,13 @@ _No dependencies or build tools required._
 
 ## 📸 Screenshot
 
-_Add your screenshot image to the project and update the path below_
-
 ```md
-![Login Form](./screenshots/login-page1.png)
-![Login Form](./screenshots/login-page2.png)
+### 1. Login Screen
+![Login Form](screenshots/login-page1.png)
+
+### 2. Working Screen
+![Login Form](screenshots/login-page2.png)
+
+---
+
+⭐ If you find this project useful, feel free to star the repository.
