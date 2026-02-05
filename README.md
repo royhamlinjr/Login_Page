@@ -77,5 +77,5 @@ _No dependencies or build tools required._
 _Add your screenshot image to the project and update the path below_
 
 ```md
-![Login Form](Login-Page1.png)
-![Login Form](Login-Page2.png)
+![Login Form](./screenshots/login-page1.png)
+![Login Form](./screenshots/login-page2.png)
