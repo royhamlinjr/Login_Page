@@ -72,14 +72,13 @@ _No dependencies or build tools required._
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-```md
-### 1. Login Screen
-![Login Form](screenshots/login-page1.png)
+### 1. Home Screen
+![Login Screen](screenshots/login.png)
 
-### 2. Working Screen
-![Login Form](screenshots/login-page2.png)
+### 2. Completed Task
+![Working Task](screenshots/working.png)
 
 ---
 
